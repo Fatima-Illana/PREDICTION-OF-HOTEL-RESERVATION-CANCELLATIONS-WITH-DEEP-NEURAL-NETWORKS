@@ -1,4 +1,4 @@
-# HOTEL RESERVATION CANCELLATION PREDICTION WITH DEEP NEURAL NETWORKS
+# HOTEL RESERVATION CANCELLATIONS PREDICTION WITH DEEP NEURAL NETWORKS
 
 This project develops a deep neural network to predict hotel reservation cancellations. It uses a dataset of 36,275 instances and 19 variables, tuning various hyperparameters and optimization techniques to maximize accuracy.
 
